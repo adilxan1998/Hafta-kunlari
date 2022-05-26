@@ -30,7 +30,7 @@ elForm.addEventListener("submit", function (o) {
       elResult.textContent = "Yakshanba"
       break;  
     default:
-      elResult.textContent = "BUNDAYKUN YO`Q☠🤬🤬🤬☠"  
+      elResult.textContent = "BUNDAYKUN YO`Q ☠🤬🤬🤬☠"  
   }
 })
   
