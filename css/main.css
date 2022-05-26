@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/images.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-label {
+  font-size: 70px;
+  color: #C7C8BAFF;
+}
+
+.result {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 60px;
+  color: #C7C8BAFF;
+}
